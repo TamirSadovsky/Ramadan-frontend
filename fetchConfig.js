@@ -6,7 +6,7 @@ switch (window.location.hostname) {
         break;
     default:
         // fetchConf = "https://app-server.ngagezone.com";
-        fetchConf = "http://localhost:3000";
+        fetchConf = "https://ramadan-backend-hvc6cnbbcrb9a6h7.israelcentral-01.azurewebsites.net/";
         break;
 
 }
