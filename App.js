@@ -8,7 +8,7 @@ import {
   Nav,
 } from "./components/index";
 
-import { Login, OrderPage } from "./Pages/index";
+import { Login, OrderPage } from "./pages/index";
 
 // import Login from './pages/index';
 import { magnifyGlass } from "@material-ui/icons";
