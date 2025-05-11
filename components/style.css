@@ -1,0 +1,52 @@
+#overlay {
+    background: #ffffff;
+    color: #666666;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 5000;
+    top: 0;
+    left: 0;
+    float: left;
+    transition: opacity 0.5s;
+    opacity: .80;
+    justify-content: center;
+    flex-direction: column-reverse
+}
+
+.spinner {
+    margin: 0 auto;
+    height: 64px;
+    width: 64px;
+    animation: rotate 0.8s infinite linear;
+    border: 5px solid firebrick;
+    border-right-color: transparent;
+    border-radius: 50%;
+}
+
+.loaderWrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    flex-direction: column;
+}
+
+.videoCamera {
+    width: 100%;
+    height: 40%;
+}
+.viewport {
+    position: relative;
+}
+.drawingBuffer{
+    display: none;
+}
+
+  @keyframes rotate {
+      0% {
+          transform: rotate(0deg);
+      }
+      100% {
+          transform: rotate(360deg);
+      }
+  }

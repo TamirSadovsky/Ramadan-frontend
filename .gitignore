@@ -1,0 +1,19 @@
+./node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+<<<<<<< HEAD
+web-build/
+=======
+# web-build/
+>>>>>>> salah-dabah/master
+
+# macOS
+.DS_Store
+node_modules

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "app.js": "/static/js/app.0203bc20.chunk.js",
+    "app.js.map": "/static/js/app.0203bc20.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.889dabde.chunk.js": "/static/js/2.889dabde.chunk.js",
+    "static/js/2.889dabde.chunk.js.map": "/static/js/2.889dabde.chunk.js.map",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.889dabde.chunk.js.LICENSE.txt": "/static/js/2.889dabde.chunk.js.LICENSE.txt",
+    "static/media/cancun-logo.jpeg": "/static/media/cancun-logo.25727804.jpeg",
+    "static/media/eiv-ntes-logo.jpeg": "/static/media/eiv-ntes-logo.8512504e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.889dabde.chunk.js",
+    "static/js/app.0203bc20.chunk.js"
+  ]
+}
